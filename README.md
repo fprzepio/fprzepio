@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fprzepio
 - 👀 I’m interested in Computer Science, programming and everything that comes with it.
-- 🌱 I’m currently learning Java and JavaScript, and working on MySQL
+- 🌱 I’m currently learning Java, HTML+CSS , and working on MySQL
 - 📫 How to reach me : 
   via LinkedIN: https://www.linkedin.com/in/filip-przepiórka-228a03272/
   or Discord: przepiorski
