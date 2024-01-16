@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Java, HTML+CSS , and working on MySQL
 - 📫 How to reach me : 
   via LinkedIN: https://www.linkedin.com/in/filip-przepiórka-228a03272/
-  or Discord: przepiorski
+  Discord: przepiorski
+  E-mail: filip.przepiorka@interia.eu
 
 <!---
 fprzepio/fprzepio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
