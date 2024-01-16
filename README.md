@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fprzepio
 - 👀 I’m interested in Computer Science, programming and everything that comes with it.
 - 🌱 I’m currently learning Java, HTML+CSS , and working on MySQL.
--       In the future I'm willing to be working on Data structures and managing SQL servers.
+-    In the future I'm willing to be working on Data structures and managing SQL servers.
 - 📫 How to reach me : 
   via LinkedIN: https://www.linkedin.com/in/filip-przepiórka-228a03272/
   Discord: przepiorski
