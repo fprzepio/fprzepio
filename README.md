@@ -10,10 +10,11 @@
 🌑In the future I'm willing to be working on Data Structures and managing SQL Servers.
 </h3>
 <h3 align="center">📫 How to reach me : </h3>
-<p>
+<p align=center>
   <a href="https://www.linkedin.com/in/filip-przepiórka-228a03272/" target="blank"><img align="center" height=30 width=40 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   <a href="https://www.instagram.com/piorski.prze/" target="blank"><img align="center" height=30 width=40 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
   <a href="mailto:filip.przepiorka@interia.eu" target="blank"><img align="center" height=30 width=30 src="https://github.com/M66B/FairEmail/blob/master/images/4.png"/></a>
+  <a href="https://www.facebook.com/filip.przepiorka.71/" target="blank"><img align=center height=30 width=30 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg"/></a>
 </p>
 
 <p><img align="left" height=250 width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=fprzepio&show_icons=true&locale=en&layout=compact" alt="fprzepio" /></p>
