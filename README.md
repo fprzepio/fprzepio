@@ -46,8 +46,8 @@ I am a second-year student at the Wyższa Szkoła Zarządzania i Bankowości in 
 <a href="https://www.canva.com/design/DAF9XKwF-8g/z0qJOqpaeoJS9WGUDV-0hA/view?utm_content=DAF9XKwF-8g&utm_campaign=designshare&utm_medium=link&utm_source=editor" target=blank>This is link to my CV </a>
 
 
-<p><img align="left" height=350 width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=fprzepio&show_icons=true&locale=en&layout=compact" alt="fprzepio" /></p>
-<p><img align="right" height=350 width=450 src="https://github-readme-streak-stats.herokuapp.com?user=fprzepio" alt="fprzepio" /></p>
-<p><img align="center" height=350 width=450 src="https://github-readme-stats.vercel.app/api?username=fprzepio&default_repocard&show_icons=true"</p>
+<p><img align="left" height=250 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=fprzepio&show_icons=true&locale=en&layout=compact" alt="fprzepio" /></p>
+<p><img align="right" height=250 width=350 src="https://github-readme-streak-stats.herokuapp.com?user=fprzepio" alt="fprzepio" /></p>
+<p><img align="center" height=250 width=350 src="https://github-readme-stats.vercel.app/api?username=fprzepio&default_repocard&show_icons=true"</p>
 
 
