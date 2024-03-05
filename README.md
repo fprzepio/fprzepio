@@ -17,6 +17,20 @@
   <a href="https://www.facebook.com/filip.przepiorka.71/" target="blank"><img align=center height=30 width=30 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg"/></a>
 </p>
 
+<h3 align=center> 💻 Technologies and Languages : </h3>
+<p align=center>
+  <img align=center height=30 width=40 src="" alt=""/>
+  <img align=center height=30 width=40 src="" alt=""/>
+  <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs"/>
+  <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql"/>
+  <img align=center height=30 width=40 src="" alt=""/>
+  <img align=center height=30 width=40 src="" alt=""/>
+  <img align=center height=30 width=40 src="" alt=""/>
+  <img align=center height=30 width=40 src="" alt=""/>
+  <img align=center height=30 width=40 src="" alt=""/>
+</p>
+
+
 <p><img align="left" height=250 width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=fprzepio&show_icons=true&locale=en&layout=compact" alt="fprzepio" /></p>
 <p><img align="right" height=250 width=300 src="https://github-readme-streak-stats.herokuapp.com?user=fprzepio" alt="fprzepio" /></p>
 <p><img align="center" height=250 width=300 src="https://github-readme-stats.vercel.app/api?username=fprzepio&default_repocard&show_icons=true"</p>
