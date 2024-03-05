@@ -1,7 +1,7 @@
 <h1 align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></h1>
 <p><img align="left" height=250 width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=fprzepio&show_icons=true&locale=en&layout=compact" alt="fprzepio" /></p>
 <p><img align="right" height=250 width=250 src="https://github-readme-streak-stats.herokuapp.com?user=fprzepio" alt="fprzepio" /></p>
-
+<br>
 - 👋 Hi, I’m @fprzepio
 - 👀 I’m interested in Computer Science, programming and everything that comes with it.
 - 🌱 I’m currently learning Java, HTML+CSS , and working on MySQL, C# and .NET.
