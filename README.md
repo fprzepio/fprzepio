@@ -1,3 +1,5 @@
+![Masterhead][https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1r8dlspDedZ2lFCOuwsRs_&ust=1709710066473000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLi-0L7M3IQDFQAAAAAdAAAAABBF]
+
 - 👋 Hi, I’m @fprzepio
 - 👀 I’m interested in Computer Science, programming and everything that comes with it.
 - 🌱 I’m currently learning Java, HTML+CSS , and working on MySQL, C# and .NET.
