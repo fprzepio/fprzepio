@@ -1,6 +1,6 @@
 <h1 align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></h1>
-<p><img align="center"><img alt="Coder GIF" height=250 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=fprzepio&show_icons=true&locale=en&layout=compact" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fprzepio)](https://git.io/streak-stats)
+<p><img align="left"><img alt="Coder GIF" height=250 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=fprzepio&show_icons=true&locale=en&layout=compact" /></p>
+<p><img align="right"><img alt="Coder GIF" height=250 width=350 src="https://github-readme-streak-stats.herokuapp.com?user=fprzepio" /></p>
 <br>
 
 - 👋 Hi, I’m @fprzepio
