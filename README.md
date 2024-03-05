@@ -28,17 +28,17 @@ I am a second-year student at the Wyższa Szkoła Zarządzania i Bankowości in 
 
 <h3 align=center> 💻 Technologies and Languages : </h3>
 <p align=center>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs"/>
+  <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_Wasm" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_server" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java"/>
+  <a href="https://developer.mozilla.org/en-US/search?q=nodejs" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs"/>
   <a href="https://developer.mozilla.org/en-US/search?q=mysql" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/dotnet.svg" alt="dotnet"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/php.svg" alt="php"/>
+  <a href="https://developer.mozilla.org/en-US/search?q=dotnet" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/dotnet.svg" alt="dotnet"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html"/>
+  <a href="https://developer.mozilla.org/en-US/search?q=linux" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP" target=blank> <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/php.svg" alt="php"/>
   
 </p>
 
