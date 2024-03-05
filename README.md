@@ -19,15 +19,15 @@
 
 <h3 align=center> 💻 Technologies and Languages : </h3>
 <p align=center>
-  <img align=center height=30 width=40 src="" alt=""/>
-  <img align=center height=30 width=40 src="" alt=""/>
+  <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp"/>
+  <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java"/>
   <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs"/>
   <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql"/>
-  <img align=center height=30 width=40 src="" alt=""/>
-  <img align=center height=30 width=40 src="" alt=""/>
-  <img align=center height=30 width=40 src="" alt=""/>
-  <img align=center height=30 width=40 src="" alt=""/>
-  <img align=center height=30 width=40 src="" alt=""/>
+  <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/dotnet.svg" alt="dotnet"/>
+  <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css"/>
+  <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html"/>
+  <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux"/>
+  <img align=center height=30 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python"/>
 </p>
 
 
