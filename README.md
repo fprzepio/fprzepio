@@ -29,6 +29,7 @@
   <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html"/>
   <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux"/>
   <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python"/>
+  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/php.svg" alt="php"/>
   
 </p>
 
