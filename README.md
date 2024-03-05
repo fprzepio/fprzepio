@@ -32,7 +32,7 @@ I am a second-year student at the Wyższa Szkoła Zarządzania i Bankowości in 
   <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp"/>
   <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java"/>
   <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="nodejs"/>
-  <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql"/>
+  <a href="https://developer.mozilla.org/en-US/search?q=mysql" target=blank><img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql"/>
   <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/dotnet.svg" alt="dotnet"/>
   <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css"/>
   <img align=center height=40 width=40 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html"/>
