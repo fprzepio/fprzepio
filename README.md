@@ -43,7 +43,7 @@ I am a second-year student at the Wyższa Szkoła Zarządzania i Bankowości in 
 </p>
 
 <h2> 📓 Curriculum vitae: </h2>
-<a href="https://www.canva.com/design/DAF9XKwF-8g/z0qJOqpaeoJS9WGUDV-0hA/view?utm_content=DAF9XKwF-8g&utm_campaign=designshare&utm_medium=link&utm_source=editor" target=blank>This is link to my CV </a>
+<a href="https://www.canva.com/design/DAF-52GUriw/kd8bcsoLHfB75bHVggykLA/edit?utm_content=DAF-52GUriw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target=blank>This is link to my CV </a>
 
 
 <p><img align="left" height=250 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=fprzepio&show_icons=true&locale=en&layout=compact" alt="fprzepio" /></p>
