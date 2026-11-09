@@ -1,6 +1,6 @@
 <h1 align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></h1>
 
-<h2 align="center">👋 Hi, I’m @fprzepio </h2>
+<h2 align="center">👋 Hi, I’m Filip </h2>
 
 <h3 align="center">
 👀 I’m interested in Data, cybersecurity in general, administration and networks.
