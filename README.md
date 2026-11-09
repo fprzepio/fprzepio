@@ -5,7 +5,7 @@
 <h3 align="center">
 👀 I’m interested in Data, cybersecurity in general, administration and networks.
 <br>
-🌱 I’m currently pursuing my Bachelor's degree in Computer Science - Networking field and working on my way into cybersecurity path.
+🌱 I've achieved my Bachelors degree in Computer Science - Networking field and working on my way into cybersecurity path.
 <br>
 🌑In the future I'm willing to be working in Cybersecurity area.
 </h3>
